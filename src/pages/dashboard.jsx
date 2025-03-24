@@ -1,5 +1,5 @@
 import DashMenu from "../components/DashMenu.jsx";
-import DashNav from "../components/dashNav.jsx";
+import DashNav from "../components/DashNav.jsx";
 import ExpenseTable from "../components/entry.jsx";
 import { Provider } from "react-redux";
 import store from "../store/store";
