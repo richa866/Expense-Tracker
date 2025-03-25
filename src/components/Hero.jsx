@@ -7,7 +7,7 @@ import{Link,NavLink} from "react-router-dom"
 const navigation = [
 
 { name: 'Features',href:"/" },
-{ name: 'Dashboard',href:"dashboard/personal" },
+{ name: 'Dashboard',href:"/forms/signup" },
 ]
 
 export default function HeroSec() {
