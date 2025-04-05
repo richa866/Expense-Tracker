@@ -1,12 +1,41 @@
-# React + Vite
+# 💸 Expense Tracker
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A smart and interactive web app to manage both personal and family expenses, with detailed categorization, visualization, and real-time collaboration.
 
-Currently, two official plugins are available:
+## 🌟 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### 🔹 Personal Dashboard
+- Track your personal expenses separately.
+- Categorize expenses using **tags** (e.g., Food, Travel, Bills).
+- Visualize spending through **interactive charts** (for better insights).
+- Simple form to add new expenses quickly.
 
-## Expanding the ESLint configuration
+### 🔸 Family Dashboard
+- Separate dashboard for managing **shared family expenses**.
+- Categorize expenses by **tags** and **person responsible** (e.g., Dad, Mom, Me).
+- View total contribution and spending breakdown by each member.
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### 💬 Real-time Chat
+- Built-in **chat section** for family members.
+- Supports **real-time updates**, enabling communication around expenses or planning.
+
+### ✅ General Features
+- Clean and intuitive UI
+- Responsive across devices (mobile + desktop)
+- Fast performance with smooth interactions
+
+## 🛠️ Technologies Used
+
+- **Frontend:** HTML, CSS, JavaScript
+- **Framework:** React
+- **Realtime & Backend:** Coming soon (Appwrite planned)
+- **Charts:** Recharts
+- **Deployment:** Vercel
+
+## 🌐 Live Demo
+
+🔗 [Try it here](https://expense-tracker--liart.vercel.app/)
+
+---
+
+
